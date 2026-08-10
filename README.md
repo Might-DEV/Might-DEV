@@ -15,9 +15,9 @@
 ### 🚀 Sobre mim
 
 - 🎓 Estudante de programação, construindo projetos reais pra fixar o aprendizado
-- 💻 Já domino **Java, Python, HTML, CSS, JavaScript, Bootstrap e SQL**
+- 💻 Tecnologias  **Java, Python, HTML, CSS, JavaScript, Bootstrap e SQL**
 - 🤖 Uso IA (Claude, GPT etc) no dia a dia pra acelerar desenvolvimento e aprendizado
-- 🌱 Atualmente estudando **React** pra ampliar meu leque
+- 🌱 Atualmente estudando **React** pra ampliar meus conhecimentos
 - 🛠️ Desenvolvo sistemas de gestão (condomínios, academias, agendamentos) na prática, como projetos pessoais e freelas
 - 🔍 Em busca de uma oportunidade de **estágio** pra crescer como desenvolvedor
 - 🎯 Gosto de entregar soluções **self-contained** — apps de arquivo único ou pacotes prontos pra rodar
@@ -61,6 +61,17 @@
 - Muitos outros projetos em andamento — dá uma olhada nos meus repositórios!
 
 ---
+🎯 Objetivo
+
+Meu objetivo é continuar evoluindo como desenvolvedor, transformar conhecimento em projetos reais e conquistar minha primeira oportunidade profissional na área de tecnologia.
+
+Aprender → Praticar → Criar → Evoluir 🚀
+
+📫 Vamos conversar?
+
+Estou aberto a oportunidades de estágio, projetos e networking na área de desenvolvimento de software.
+
+⭐ Confira meus repositórios e acompanhe minha evolução!
 
 ### 📫 Contato
 
