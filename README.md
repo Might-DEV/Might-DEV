@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Marlon 👋</h1>
 
-<!--
-**Might-DEV/Might-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desenvolvedor focado em criar sistemas de gestão web e desktop — do zero ao deploy.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Estagi%C3%A1rio%20React-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Foco-Full%20Stack-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Base-Brasil%20🇧🇷-green?style=flat-square" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre mim
+
+- 💻 Desenvolvo sistemas de gestão (condomínios, academias, agendamentos) com **HTML, CSS, JavaScript, Firebase e SQLite**
+- 🐍 Uso **Python** (Tkinter, Playwright, Pillow) pra desktop apps e automação
+- ☕ Também curto **Java (Swing)** pra interfaces desktop
+- 🌱 Atualmente aprendendo e aplicando **React** no meu estágio
+- 🎯 Gosto de entregar soluções **self-contained** — apps de arquivo único ou pacotes prontos pra rodar
+
+---
+
+### 🛠️ Tecnologias
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+---
+
+### 📌 Projetos em destaque
+
+- **[Vision+](#)** — Plataforma de gestão de condomínios (evolução do sistema Lorrain), com landing page própria e demo offline pra apresentação a clientes.
+- **[São Jorge Training Club](#)** — Site institucional multi-seção + dashboard de gestão de alunos em React/Vite.
+- **[Lorrain Portaria](#)** — App desktop em Python/Tkinter + SQLite, migração do sistema web pra `.exe` local.
+- **Quiz App Multi-linguagem** — Plataforma educacional single-file com modo quiz, lições e exercícios auto-corrigidos.
+
+> 💡 Troque os `#` acima pelos links reais dos repositórios quando publicar.
+
+---
+
+### 📊 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Contato
+
+<p align="left">
+  <a href="https://wa.me/SEUNUMERO" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:SEUEMAIL@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/SEULINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
