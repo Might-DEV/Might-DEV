@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Brasil-green?style=flat-square" />
 </p>
 <p>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDd5ZTM0aG5hcnBwcG1sbG4wMXkxOGcybWoyaHB3bWljeXRneXU1MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/200.webp"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDd5ZTM0aG5hcnBwcG1sbG4wMXkxOGcybWoyaHB3bWljeXRneXU1MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/200.webp"/>-----------------------------------------------------
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDd5ZTM0aG5hcnBwcG1sbG4wMXkxOGcybWoyaHB3bWljeXRneXU1MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KAq5w47R9rmTuvWOWa/200.webp" />
 </p>
 
