@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Estagi%C3%A1rio%20React-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Foco-Full%20Stack-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Buscando%20Est%C3%A1gio-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Estudante-Desenvolvimento-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Base-Brasil%20🇧🇷-green?style=flat-square" />
 </p>
 
@@ -14,10 +14,11 @@
 
 ### 🚀 Sobre mim
 
-- 💻 Desenvolvo sistemas de gestão (condomínios, academias, agendamentos) com **HTML, CSS, JavaScript, Firebase e SQLite**
-- 🐍 Uso **Python** (Tkinter, Playwright, Pillow) pra desktop apps e automação
-- ☕ Também curto **Java (Swing)** pra interfaces desktop
-- 🌱 Atualmente aprendendo  **React** 
+- 🎓 Estudante de programação, construindo projetos reais pra fixar o aprendizado
+- 💻 Já domino **Java, Python, HTML, CSS, JavaScript e SQL**
+- 🌱 Atualmente estudando **React** pra ampliar meu leque
+- 🛠️ Desenvolvo sistemas de gestão (condomínios, academias, agendamentos) na prática, como projetos pessoais e freelas
+- 🔍 Em busca de uma oportunidade de **estágio** pra crescer como desenvolvedor
 - 🎯 Gosto de entregar soluções **self-contained** — apps de arquivo único ou pacotes prontos pra rodar
 
 ---
@@ -25,36 +26,30 @@
 ### 🛠️ Tecnologias
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+**Estudando agora:**
+
+<p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 ---
 
 ### 📌 Projetos em destaque
 
-- **[Vision+](https://github.com/Might-DEV/Vision-Seguran-a)** — Plataforma de gestão de condomínios (evolução do sistema Lorrain), com landing page própria e demo offline pra apresentação a clientes.
-- **[São Jorge Training Club](https://github.com/Might-DEV/Academia-S-oJorge)** — Site institucional multi-seção + dashboard de gestão de alunos em React/Vite.
+- **[Vision+](#)** — Plataforma de gestão de condomínios (evolução do sistema Lorrain), com landing page própria e demo offline pra apresentação a clientes.
+- **[São Jorge Training Club](#)** — Site institucional multi-seção + dashboard de gestão de alunos em React/Vite.
+- **[Lorrain Portaria](#)** — App desktop em Python/Tkinter + SQLite, migração do sistema web pra `.exe` local.
 - **Quiz App Multi-linguagem** — Plataforma educacional single-file com modo quiz, lições e exercícios auto-corrigidos.
 
 > 💡 Troque os `#` acima pelos links reais dos repositórios quando publicar.
-
----
-
-### 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Might-DEV&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Might-DEV&theme=tokyonight" />
-</p>
 
 ---
 
