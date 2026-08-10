@@ -15,7 +15,8 @@
 ### 🚀 Sobre mim
 
 - 🎓 Estudante de programação, construindo projetos reais pra fixar o aprendizado
-- 💻 Já domino **Java, Python, HTML, CSS, JavaScript e SQL**
+- 💻 Já domino **Java, Python, HTML, CSS, JavaScript, Bootstrap e SQL**
+- 🤖 Uso IA (Claude, GPT etc) no dia a dia pra acelerar desenvolvimento e aprendizado
 - 🌱 Atualmente estudando **React** pra ampliar meu leque
 - 🛠️ Desenvolvo sistemas de gestão (condomínios, academias, agendamentos) na prática, como projetos pessoais e freelas
 - 🔍 Em busca de uma oportunidade de **estágio** pra crescer como desenvolvedor
@@ -31,7 +32,15 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+**Ferramentas de IA:**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 **Estudando agora:**
@@ -48,10 +57,10 @@
 - **[São Jorge Training Club](#)** — Site institucional multi-seção + dashboard de gestão de alunos em React/Vite.
 - **[Lorrain Portaria](#)** — App desktop em Python/Tkinter + SQLite, migração do sistema web pra `.exe` local.
 - **Quiz App Multi-linguagem** — Plataforma educacional single-file com modo quiz, lições e exercícios auto-corrigidos.
+- **CalculadoraJava** — Calculadora Real com interface grafica utilizando javaFx.
+- ...E muitos outros projetos....
 
-> 💡 Troque os `#` acima pelos links reais dos repositórios quando publicar.
 
----
 
 ### 📫 Contato
 
