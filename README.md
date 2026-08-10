@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Buscando%20Est%C3%A1gio-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Buscando%20Estagio-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Estudante-Desenvolvimento-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Base-Brasil%20🇧🇷-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Brasil-green?style=flat-square" />
 </p>
 
 ---
@@ -57,15 +57,14 @@
 - **[São Jorge Training Club](#)** — Site institucional multi-seção + dashboard de gestão de alunos em React/Vite.
 - **[Lorrain Portaria](#)** — App desktop em Python/Tkinter + SQLite, migração do sistema web pra `.exe` local.
 - **Quiz App Multi-linguagem** — Plataforma educacional single-file com modo quiz, lições e exercícios auto-corrigidos.
-- **CalculadoraJava** — Calculadora Real com interface grafica utilizando javaFx.
-- ...E muitos outros projetos....
 
 
+---
 
 ### 📫 Contato
 
 <p align="left">
-  <a href="https://wa.me/SEUNUMERO" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="mailto:SEUEMAIL@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/SEULINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://wa.me/11984125026" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="marlons960@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/marlon-santos01/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
