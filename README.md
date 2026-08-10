@@ -57,15 +57,15 @@
 - **[São Jorge Training Club](#)** — Site institucional multi-seção + dashboard de gestão de alunos em React/Vite.
 - **[Lorrain Portaria](#)** — App desktop em Python/Tkinter + SQLite, migração do sistema web pra `.exe` local.
 - **Quiz App Multi-linguagem** — Plataforma educacional single-file com modo quiz, lições e exercícios auto-corrigidos.
-
-> 💡 Troque os `#` acima pelos links reais dos repositórios quando publicar.
+- **Calculadora Java UI** — Calculadora feita em Java com interface gráfica utilizando JavaFX.
+- Muitos outros projetos em andamento — dá uma olhada nos meus repositórios!
 
 ---
 
 ### 📫 Contato
 
 <p align="left">
-  <a href="https://wa.me/SEUNUMERO" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="mailto:SEUEMAIL@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/SEULINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://wa.me/5511984125026" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:marlons960@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/marlon-santos01/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
