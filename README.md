@@ -8,7 +8,11 @@
   <img src="https://img.shields.io/badge/Status-Buscando%20Estagio-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Estudante-Desenvolvimento-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Brasil-green?style=flat-square" />
+  
+  
 </p>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDd5ZTM0aG5hcnBwcG1sbG4wMXkxOGcybWoyaHB3bWljeXRneXU1MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/200.webp"/>
+
 
 ---
 
