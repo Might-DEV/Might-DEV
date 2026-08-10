@@ -17,7 +17,7 @@
 - 💻 Desenvolvo sistemas de gestão (condomínios, academias, agendamentos) com **HTML, CSS, JavaScript, Firebase e SQLite**
 - 🐍 Uso **Python** (Tkinter, Playwright, Pillow) pra desktop apps e automação
 - ☕ Também curto **Java (Swing)** pra interfaces desktop
-- 🌱 Atualmente aprendendo e aplicando **React** no meu estágio
+- 🌱 Atualmente aprendendo  **React** 
 - 🎯 Gosto de entregar soluções **self-contained** — apps de arquivo único ou pacotes prontos pra rodar
 
 ---
@@ -39,9 +39,8 @@
 
 ### 📌 Projetos em destaque
 
-- **[Vision+](#)** — Plataforma de gestão de condomínios (evolução do sistema Lorrain), com landing page própria e demo offline pra apresentação a clientes.
-- **[São Jorge Training Club](#)** — Site institucional multi-seção + dashboard de gestão de alunos em React/Vite.
-- **[Lorrain Portaria](#)** — App desktop em Python/Tkinter + SQLite, migração do sistema web pra `.exe` local.
+- **[Vision+](https://github.com/Might-DEV/Vision-Seguran-a)** — Plataforma de gestão de condomínios (evolução do sistema Lorrain), com landing page própria e demo offline pra apresentação a clientes.
+- **[São Jorge Training Club](https://github.com/Might-DEV/Academia-S-oJorge)** — Site institucional multi-seção + dashboard de gestão de alunos em React/Vite.
 - **Quiz App Multi-linguagem** — Plataforma educacional single-file com modo quiz, lições e exercícios auto-corrigidos.
 
 > 💡 Troque os `#` acima pelos links reais dos repositórios quando publicar.
