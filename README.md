@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Marlon 👋</h1>
+<h1 align="center">Olá, Eu sou o Marlon 👋</h1>
 
 <p align="center">
   Desenvolvedor focado em criar sistemas de gestão web e desktop — do zero ao deploy.
