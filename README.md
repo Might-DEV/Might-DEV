@@ -72,9 +72,10 @@
 - **[Cadastro de alunos](#)** — Sistema de Cadastro de Alunos (CRUD) Sistema de linha de comando desenvolvido em Python com banco de dados MySQL, aplicando os conceitos fundamentais de CRUD (Create, Read, Update, Delete).
 - **[Cine-Gorila](#)** -Aplicação React para buscar filmes, ver sinopse, elenco e nota do público, consumindo a API do TMDB. Projeto feito para praticar hooks (useState, useEffect), fetch assíncrono, debounce de busca e componentização.
 - **[Calculadora Java UI]** — Calculadora feita em Java com interface gráfica utilizando JavaFX.
-- Muitos outros projetos em andamento — dá uma olhada nos meus repositórios!
 - **[MercadoVirtual-Java](#)** -Sistema de gerenciamento de mercado desenvolvido em Java, executado através do terminal, Podendo cadastar produtos, Clientes, Vender etc.
 
+  
+- Muitos outros projetos em andamento — dá uma olhada nos meus repositórios!!
 ---
 🎯 Objetivo
 
