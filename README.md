@@ -12,7 +12,7 @@
 <p align="center">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDd5ZTM0aG5hcnBwcG1sbG4wMXkxOGcybWoyaHB3bWljeXRneXU1MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/200.webp"/>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDd5ZTM0aG5hcnBwcG1sbG4wMXkxOGcybWoyaHB3bWljeXRneXU1MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KAq5w47R9rmTuvWOWa/200.webp" />
-  <img src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDd5ZTM0aG5hcnBwcG1sbG4wMXkxOGcybWoyaHB3bWljeXRneXU1MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KAq5w47R9rmTuvWOWa/200.webp](https://gist.github.com/29cdb9f96d48b0594e180c0ebeaf6529)" />
+  <img src="https://raw.githubusercontent.com/gist/brudnak/29cdb9f96d48b0594e180c0ebeaf6529/raw/83f3177a45f2c0e12669ec10d9c193d01711cfed/java.gif"/>
 </p>
 
 ---
