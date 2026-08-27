@@ -16,7 +16,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BjcmY1MG00ZWtuY3FtOWJ6cWJ2ejdleXhzanRqODluY3c0YW1laiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" style="height: 200px; width: auto;">
 </p>
 
-<img src="https://profissionaislinux.com.br/wp-content/uploads/2020/01/giphy-computer.gif"/>
+<img src="https://i.pinimg.com/originals/49/e7/6e/49e76e0596857673c5c80c85b84394c1.gif"/>
 
 ----
 
