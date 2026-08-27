@@ -18,9 +18,10 @@
 
 ---
 
-### 🚀 Sobre mim
+######  Sobre mim ######
 
-- 🎓 Estudante de programação, construindo projetos reais pra fixar o aprendizado
+- 🎓 Atualmente Cursando Faculdade São Francisco de Asis (Analise e Desenvolvimento De Sistemas 3-Semestre)
+- 🎓 Estudante de programação , construindo projetos reais pra fixar o aprendizado
 - 💻 Tecnologias  **Java, Python, HTML, CSS, JavaScript, Bootstrap, React e SQL**
 - 🤖 Uso IA (Claude, GPT etc) no dia a dia pra acelerar desenvolvimento e aprendizado
 - 🌱 Atualmente estudando **React** pra ampliar meus conhecimentos
