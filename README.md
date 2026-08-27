@@ -16,18 +16,25 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BjcmY1MG00ZWtuY3FtOWJ6cWJ2ejdleXhzanRqODluY3c0YW1laiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" style="height: 200px; width: auto;">
 </p>
 
----
+----
 
-######  Sobre mim ######
+## Sobre mim
 
-- 🎓 Atualmente Cursando Faculdade São Francisco de Asis (Analise e Desenvolvimento De Sistemas 3-Semestre)
-- 🎓 Estudante de programação , construindo projetos reais pra fixar o aprendizado
-- 💻 Tecnologias  **Java, Python, HTML, CSS, JavaScript, Bootstrap, React e SQL**
-- 🤖 Uso IA (Claude, GPT etc) no dia a dia pra acelerar desenvolvimento e aprendizado
-- 🌱 Atualmente estudando **React** pra ampliar meus conhecimentos
-- 🛠️ Desenvolvo sistemas de gestão (condomínios, academias, agendamentos) na prática, como projetos pessoais e freelas
-- 🔍 Em busca de uma oportunidade de **estágio** pra crescer como desenvolvedor
-- 🎯 Gosto de entregar soluções **self-contained** — apps de arquivo único ou pacotes prontos pra rodar
+🎓 Estudante de Análise e Desenvolvimento de Sistemas — 3º semestre na Faculdade São Francisco de Assis
+
+💻 Estudo programação e gosto de colocar o que aprendo em prática criando meus próprios projetos.
+
+🚀 Tenho conhecimentos em Java, Python, HTML, CSS, JavaScript, Bootstrap, React e SQL.
+
+🌱 Atualmente estou focado em aprender mais sobre React e desenvolvimento web.
+
+🛠️ Já desenvolvi alguns projetos de sistemas de gestão para praticar, como sistemas para condomínios, academias e agendamentos.
+
+🤖 Também utilizo ferramentas de IA no dia a dia como apoio para estudar, pesquisar e desenvolver meus projetos.
+
+🔍 Estou buscando uma oportunidade de estágio para ganhar experiência profissional e continuar evoluindo como desenvolvedor.
+
+🎯 Meu objetivo é aprender cada vez mais, criar projetos melhores e transformar o conhecimento da faculdade em prática.
 
 ---
 
