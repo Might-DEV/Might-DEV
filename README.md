@@ -17,7 +17,7 @@
 </p>
 
 <img src="https://i.pinimg.com/originals/49/e7/6e/49e76e0596857673c5c80c85b84394c1.gif"
-     style="width: 100%; display: block;">
+     style="width: 100vw; height: 100vh; object-fit: cover; display: block;">
 
 ----
 
