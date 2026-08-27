@@ -21,7 +21,7 @@
 ### 🚀 Sobre mim
 
 - 🎓 Estudante de programação, construindo projetos reais pra fixar o aprendizado
-- 💻 Tecnologias  **Java, Python, HTML, CSS, JavaScript, Bootstrap e SQL**
+- 💻 Tecnologias  **Java, Python, HTML, CSS, JavaScript, Bootstrap, React e SQL**
 - 🤖 Uso IA (Claude, GPT etc) no dia a dia pra acelerar desenvolvimento e aprendizado
 - 🌱 Atualmente estudando **React** pra ampliar meus conhecimentos
 - 🛠️ Desenvolvo sistemas de gestão (condomínios, academias, agendamentos) na prática, como projetos pessoais e freelas
@@ -59,12 +59,13 @@
 
 ### 📌 Projetos em destaque
 
-- **[Vision+](#)** — Plataforma de gestão de condomínios (evolução do sistema Lorrain), com landing page própria e demo offline pra apresentação a clientes.
-- **[São Jorge Training Club](#)** — Site institucional multi-seção + dashboard de gestão de alunos em React/Vite.
-- **[Lorrain Portaria](#)** — App desktop em Python/Tkinter + SQLite, migração do sistema web pra `.exe` local.
-- **Quiz App Multi-linguagem** — Plataforma educacional single-file com modo quiz, lições e exercícios auto-corrigidos.
-- **Calculadora Java UI** — Calculadora feita em Java com interface gráfica utilizando JavaFX.
+- **[Vision+](#)** — Plataforma de gestão de condomínios (Uzado em um Condominio Real e Adiministrado por mim), com landing page própria e demo offline pra apresentação a clientes.(Projeto privado)
+- **[São Jorge Training Club](#)** — Site Academia Lanpage, Criado para um Cliente
+- **[Cadastro de alunos](#)** — Sistema de Cadastro de Alunos (CRUD) Sistema de linha de comando desenvolvido em Python com banco de dados MySQL, aplicando os conceitos fundamentais de CRUD (Create, Read, Update, Delete).
+- **[Cine-Gorila](#)** -Aplicação React para buscar filmes, ver sinopse, elenco e nota do público, consumindo a API do TMDB. Projeto feito para praticar hooks (useState, useEffect), fetch assíncrono, debounce de busca e componentização.
+- **[Calculadora Java UI]** — Calculadora feita em Java com interface gráfica utilizando JavaFX.
 - Muitos outros projetos em andamento — dá uma olhada nos meus repositórios!
+- **[MercadoVirtual-Java](#)** -Sistema de gerenciamento de mercado desenvolvido em Java, executado através do terminal, Podendo cadastar produtos, Clientes, Vender etc.
 
 ---
 🎯 Objetivo
