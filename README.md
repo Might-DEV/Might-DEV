@@ -9,20 +9,21 @@
   <img src="https://img.shields.io/badge/Estudante-Desenvolvimento-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Brasil-green?style=flat-square" />
 </p>
+
 <p align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDd5ZTM0aG5hcnBwcG1sbG4wMXkxOGcybWoyaHB3bWljeXRneXU1MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/200.webp"/>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDd5ZTM0aG5hcnBwcG1sbG4wMXkxOGcybWoyaHB3bWljeXRneXU1MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KAq5w47R9rmTuvWOWa/200.webp" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDd5ZTM0aG5hcnBwcG1sbG4wMXkxOGcybWoyaHB3bWljeXRneXU1MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/200.webp" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDd5ZTM0aG5hcnBwcG1sbG4wMXkxOGcybWoyaHB3bWljeXRneXU1MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KAq5w47R9rmTuvWOWa/200.webp" />
   <img src="https://raw.githubusercontent.com/gist/brudnak/29cdb9f96d48b0594e180c0ebeaf6529/raw/83f3177a45f2c0e12669ec10d9c193d01711cfed/java.gif" style="height: 200px; width: auto;">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BjcmY1MG00ZWtuY3FtOWJ6cWJ2ejdleXhzanRqODluY3c0YW1laiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" style="height: 200px; width: auto;">
 </p>
 
-<img src="https://i.pinimg.com/originals/49/e7/6e/49e76e0596857673c5c80c85b84394c1.gif"
-style="width:100%; margin:0; padding:0; display:block;">
-----
+<img src="https://i.pinimg.com/originals/49/e7/6e/49e76e0596857673c5c80c85b84394c1.gif" width="100%">
+
+---
 
 ## Sobre mim
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas — 3º semestre na Faculdade São Francisco de Assis
+🎓 Estudante de Análise e Desenvolvimento de Sistemas — 3º semestre na Faculdade São Francisco de Assis.
 
 💻 Estudo programação e gosto de colocar o que aprendo em prática criando meus próprios projetos.
 
@@ -69,23 +70,31 @@ style="width:100%; margin:0; padding:0; display:block;">
 
 ### 📌 Projetos em destaque
 
-- **[Vision+](#)** — Plataforma de gestão de condomínios (Uzado em um Condominio Real e Adiministrado por mim), com landing page própria e demo offline pra apresentação a clientes.(Projeto privado)
-- **[São Jorge Training Club](#)** — Site Academia Lanpage, Criado para um Cliente
-- **[Cadastro de alunos](#)** — Sistema de Cadastro de Alunos (CRUD) Sistema de linha de comando desenvolvido em Python com banco de dados MySQL, aplicando os conceitos fundamentais de CRUD (Create, Read, Update, Delete).
-- **[Cine-Gorila](#)** -Aplicação React para buscar filmes, ver sinopse, elenco e nota do público, consumindo a API do TMDB. Projeto feito para praticar hooks (useState, useEffect), fetch assíncrono, debounce de busca e componentização.
-- **[Calculadora Java UI]** — Calculadora feita em Java com interface gráfica utilizando JavaFX.
-- **[MercadoVirtual-Java](#)** -Sistema de gerenciamento de mercado desenvolvido em Java, executado através do terminal, Podendo cadastar produtos, Clientes, Vender etc.
+* **[Vision+](#)** — Plataforma de gestão de condomínios, utilizada em um condomínio real e administrada por mim. Possui landing page própria e demonstração offline para apresentação a clientes. *(Projeto privado)*
 
-  
-- Muitos outros projetos em andamento — dá uma olhada nos meus repositórios!!
+* **[São Jorge Training Club](#)** — Landing page de academia criada para um cliente.
+
+* **[Cadastro de Alunos](#)** — Sistema de cadastro de alunos (CRUD) desenvolvido em Python com banco de dados MySQL, aplicando os conceitos fundamentais de Create, Read, Update e Delete.
+
+* **[Cine-Gorila](#)** — Aplicação React para buscar filmes, visualizar sinopse, elenco e nota do público, consumindo a API do TMDB. Projeto desenvolvido para praticar hooks (`useState`, `useEffect`), requisições assíncronas, debounce de busca e componentização.
+
+* **[Calculadora Java UI](#)** — Calculadora desenvolvida em Java com interface gráfica utilizando JavaFX.
+
+* **[MercadoVirtual-Java](#)** — Sistema de gerenciamento de mercado desenvolvido em Java e executado através do terminal, permitindo cadastrar produtos, clientes e realizar vendas.
+
+* Muitos outros projetos em andamento — dá uma olhada nos meus repositórios! 🚀
+
 ---
-🎯 Objetivo
+
+## 🎯 Objetivo
 
 Meu objetivo é continuar evoluindo como desenvolvedor, transformar conhecimento em projetos reais e conquistar minha primeira oportunidade profissional na área de tecnologia.
 
-Aprender → Praticar → Criar → Evoluir 🚀
+**Aprender → Praticar → Criar → Evoluir 🚀**
 
-📫 Vamos conversar?
+---
+
+## 📫 Vamos conversar?
 
 Estou aberto a oportunidades de estágio, projetos e networking na área de desenvolvimento de software.
 
@@ -94,7 +103,15 @@ Estou aberto a oportunidades de estágio, projetos e networking na área de dese
 ### 📫 Contato
 
 <p align="left">
-  <a href="https://wa.me/5511984125026" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="mailto:marlons960@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/marlon-santos01/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://wa.me/5511984125026" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+  <a href="mailto:marlons960@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/marlon-santos01/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
