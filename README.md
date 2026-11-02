@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Marlon 👋</h1>
 
 <p align="center">
-  Desenvolvedor focado em criar sistemas de gestão web e desktop — do zero ao deploy.
+  Desenvolvedor full stack em formação, focado em criar sistemas de gestão web e desktop — do zero ao deploy.
 </p>
 
 <p align="center">
@@ -22,34 +22,64 @@
 
 ## Sobre mim
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas — 3º semestre na Faculdade São Francisco de Assis.
+ Estudante de Análise e Desenvolvimento de Sistemas — 3º semestre na Faculdade São Francisco de Assis.
 
-💻 Estudo programação e gosto de colocar o que aprendo em prática criando meus próprios projetos.
+ Estudo programação e gosto de colocar o que aprendo em prática criando meus próprios projetos.
 
-🚀 Tenho conhecimentos em Java, Python, HTML, CSS, JavaScript, Bootstrap, React e SQL.
+ Tenho conhecimentos em Java, Python, HTML, CSS, Sass, JavaScript, Bootstrap, React, Node.js, Express, Firebase e bancos de dados SQL (PostgreSQL, MySQL e SQLite).
 
-🌱 Atualmente estou focado em aprender mais sobre React e desenvolvimento web.
+ Atualmente estou focado em aprender mais sobre React e desenvolvimento full stack.
 
-🛠️ Já desenvolvi alguns projetos de sistemas de gestão para praticar, como sistemas para condomínios, academias e agendamentos.
+ Já desenvolvi alguns projetos de sistemas de gestão para praticar, como sistemas para condomínios, academias e agendamentos.
 
-🤖 Também utilizo ferramentas de IA no dia a dia como apoio para estudar, pesquisar e desenvolver meus projetos.
+ Também utilizo ferramentas de IA no dia a dia como apoio para estudar, pesquisar e desenvolver meus projetos.
 
-🔍 Estou buscando uma oportunidade de estágio para ganhar experiência profissional e continuar evoluindo como desenvolvedor.
+ Estou buscando uma oportunidade de estágio para ganhar experiência profissional e continuar evoluindo como desenvolvedor.
 
-🎯 Meu objetivo é aprender cada vez mais, criar projetos melhores e transformar o conhecimento da faculdade em prática.
+ Meu objetivo é aprender cada vez mais, criar projetos melhores e transformar o conhecimento da faculdade em prática.
 
 ---
 
 ### 🛠️ Tecnologias
 
+**Front-end:**
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+**Back-end e APIs:**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+**Bancos de dados:**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+**Ferramentas:**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 </p>
 
 **Ferramentas de IA:**
@@ -67,7 +97,7 @@
 
 ---
 
-### 📌 Projetos em destaque
+###  Projetos em destaque
 
 * **[Vision+](#)** — Plataforma de gestão de condomínios, utilizada em um condomínio real e administrada por mim. Possui landing page própria e demonstração offline para apresentação a clientes. *(Projeto privado)*
 
@@ -85,7 +115,7 @@
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Meu objetivo é continuar evoluindo como desenvolvedor, transformar conhecimento em projetos reais e conquistar minha primeira oportunidade profissional na área de tecnologia.
 
@@ -93,13 +123,13 @@ Meu objetivo é continuar evoluindo como desenvolvedor, transformar conhecimento
 
 ---
 
-## 📫 Vamos conversar?
+##  Vamos conversar?
 
 Estou aberto a oportunidades de estágio, projetos e networking na área de desenvolvimento de software.
 
 ⭐ Confira meus repositórios e acompanhe minha evolução!
 
-### 📫 Contato
+###  Contato
 
 <p align="left">
   <a href="https://wa.me/5511984125026" target="_blank">
